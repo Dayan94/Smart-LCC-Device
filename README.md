@@ -15,14 +15,14 @@ The repository contains the Arduino code written for the microcontroller program
 	7. Rechargeable Lithium-Ion Battery
 	8. 10 K Ohm fixed resistors
 	9. 10 K Ohm Potentiometers
-	10. Voltage Regulator (Buck Converter and Boost Converter)
+	10. Voltage Regulator (Buck Converter and Boost Converter).
 
 - Software Tools:
 	1. Arduino Integrated Development Environment (IDE)
 	2. Liquid Crystal Library (for LCD Display)
 	3. TMRPCM library (for audio sound)
 	4. Software Serial Library (for serial communication with GSM Shield SIM900)
-	5. SD and SPI library (for functioning Micro SD Card)
+	5. SD and SPI library (for functioning Micro SD Card).
 
 ---
 ## Achievements
