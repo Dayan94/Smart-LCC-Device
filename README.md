@@ -3,7 +3,7 @@
 The repository contains the Arduino code written for the microcontroller programming for the device named 'Smart LCC Device.' Based on the Leaf Color Chart, the device is a urea measurement audio-visual IoT device for Bengali Farmers. It can measure urea for Aman and Boro paddy, maize, and wheat and send the data with the exact date, time, and location on an online site. The website then analyzes and visualizes the collected data using bar charts and heat maps. It has 25 buttons for user input, an LCD for the user interface, a speaker for audio output and instructions, and a GSM module for sending real-time data to an online site. The farmer needs to select a crop, input land size, and match the prescribed number of leaves' color taken from different places of the land with the six strips color chart attached to the device. Then, the device will display and tell whether the land requires urea provision and how much should be applied if necessary. 
 
 ---
-## Tools And Technology Used
+## Tools and Technology Used
 
 - Hardware Tools:
 	1. Arduino UNO
