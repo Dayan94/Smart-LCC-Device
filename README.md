@@ -41,5 +41,5 @@ The repository contains the Arduino code written for the microcontroller program
 I presented the research paper relevant to the device at the IEEE RAAICON 2019 Conference at FARS Hotel & Resorts, Akram Center, 212 Shahid Syed Nazrul Islam Sharani, Dhaka, Bangladesh. The presentation slide is available in the link here: [IEEE RAAICON 2019 Presentation Slide](./RAAICON-2019-Presentation-Slides_72.pdf)
 
 To know details about the device, read the paper available in the given links below: 
-- [IEEE Xplore Original Pubication](https://ieeexplore.ieee.org/document/9087520)
+- [IEEE Xplore Original Publication](https://ieeexplore.ieee.org/document/9087520)
 - [Full Paper in ResearchGate](https://www.researchgate.net/publication/341400432_Smart_LCC_Device_LCC-Based_IoT_Device_for_measuring_urea_consumption_in_major_food_crops)
