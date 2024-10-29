@@ -26,7 +26,7 @@ The repository contains the Arduino code written for the microcontroller program
 	5. SD and SPI library (for functioning Micro SD Card)
 
 ---
-## Acheievement
+## Achievements
 
 1. I won the Championship in the Project Showcasing Contest at the Tech Fest 2017, Metropolitan University, excluding the IoT part of the device, only Aman and Boro paddy as crop input, and only bigha for the land size unit, adjustable by a single increment or decrement using the '+' and '-' buttons.
 
